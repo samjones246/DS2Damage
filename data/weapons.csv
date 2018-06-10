@@ -1,0 +1,227 @@
+Dagger,Dagger,115,0,0,0,0,15,45,0,0,0,0
+Parrying Dagger,Dagger,80,0,0,0,0,10,50,0,0,0,0
+Bandit's Knife,Dagger,130,0,0,0,0,35,0,0,0,0,0
+Shadow Dagger,Dagger,120,0,0,0,0,55,15,0,0,0,0
+Thief Dagger,Dagger,158,0,0,0,0,15,0,0,0,0,0
+Broken Thief Sword,Dagger,120,0,0,0,0,35,0,0,0,0,0
+Manikin Knife,Dagger,105,0,0,0,0,20,25,0,0,0,0
+Royal Dirk,Dagger,150,0,0,0,0,20,37.8,0,0,0,0
+Mytha's Bent Blade,Dagger,100,0,0,0,0,0,42.8,0,0,0,0
+Black Flamestone Dagger,Dagger,140,0,0,0,0,50,20,0,0,0,0
+Blue Dagger,Dagger,100,0,0,0,0,15,25,0,0,0,0
+Umbral Dagger,Dagger,70,0,0,0,0,0,65,0,0,0,0
+Retainer's Short Sword,Dagger,70,90,0,0,0,10,10,35,0,0,0
+Shortsword,Straight Sword,200,0,0,0,0,50,25,0,0,0,0
+Longsword,Straight Sword,225,0,0,0,0,50,25,0,0,0,0
+Broken Straight Sword,Straight Sword,160,0,0,0,0,35,0,0,0,0,0
+Broadsword,Straight Sword,240,0,0,0,0,55,15,0,0,0,0
+Foot Soldier Sword,Straight Sword,230,0,0,0,0,35,10,0,0,0,0
+Varangian Sword,Straight Sword,250,0,0,0,0,50,25,0,0,0,0
+Blue Flame,Straight Sword,130,180,0,0,0,15,20,40,0,0,0
+Heide Knight Sword,Straight Sword,150,0,0,90,0,50,25,0,0,40,0
+Red Rust Sword,Straight Sword,205,0,0,0,0,100,10,0,0,0,0
+Sun Sword,Straight Sword,175,0,0,0,0,80,45,0,0,0,0
+Drakekeeper's Sword,Straight Sword,245,0,0,0,0,50,25,0,0,0,0
+Black Dragon Sword,Straight Sword,300,0,0,0,0,0,0,0,0,0,0
+Yellow Quartz Longsword,Straight Sword,220,0,0,0,0,50,20,0,0,0,0
+Possessed Armor Sword,Straight Sword,170,0,100,0,0,15,10,0,40,0,0
+Ashen Warrior Sword,Straight Sword,180,0,0,0,0,50,35,0,0,0,0
+Puzzling Stone Sword,Straight Sword,145,0,0,0,0,15,90,0,0,0,0
+Fume Sword,Straight Sword,140,0,0,0,70,0,60,0,0,0,40
+Ivory Straight Sword,Straight Sword,255,0,0,0,0,0,0,0,0,0,0
+Bastard Sword,Greatsword,280,0,0,0,0,50,25,0,0,0,0
+Flamberge,Greatsword,250,0,0,0,0,25,60,0,0,0,0
+Claymore,Greatsword,290,0,0,0,0,50,25,0,0,0,0
+Royal Greatsword,Greatsword,270,0,0,0,0,55,15,0,0,0,0
+Old Knight Greatsword,Greatsword,280,0,0,0,0,80,10,0,0,0,0
+Mastodon Greatsword,Greatsword,300,0,0,0,0,80,10,0,0,0,0
+Drangleic Sword,Greatsword,270,0,0,0,0,42.8,52.8,0,0,0,0
+Mirrah Greatsword,Greatsword,250,0,0,0,0,45,55,0,0,0,0
+Old Mirrah Greatsword,Greatsword,220,0,0,0,0,40,65,0,0,0,0
+Bluemoon Greatsword,Greatsword,375,0,0,0,0,0,0,0,0,0,0
+Moonlight Greatsword,Greatsword,0,380,0,0,0,0,0,95,0,0,0
+Black Knight Greatsword,Greatsword,280,0,80,0,0,52.8,10,0,37.8,0,0
+Thorned Greatsword,Greatsword,210,0,0,80,0,50,25,0,0,40,0
+Defender Greatsword,Greatsword,200,0,0,80,0,50,15,0,0,52.8,0
+Watcher Greatsword,Greatsword,185,150,0,0,0,15,20,70,0,0,0
+Ruler's Sword (1mil),Greatsword,280,0,0,0,0,65,32.5,0,0,0,0
+Ruler's Sword (500k),Greatsword,280,0,0,0,0,53,26.5,0,0,0,0
+Ruler's Sword (0),Greatsword,280,0,0,0,0,43,21.5,0,0,0,0
+Black Dragon Greatsword,Greatsword,340,0,0,0,0,0,0,0,0,0,0
+Key to the Embedded,Greatsword,220,0,0,0,0,25,55,0,0,0,0
+Majestic Greatsword (Left Hand),Greatsword,340,0,0,0,0,55,15,0,0,0,0
+Majestic Greatsword (Right Hand),Greatsword,290,0,0,0,0,55,15,0,0,0,0
+Drakeblood Greatsword,Greatsword,232,50,0,50,0,15,60,0,0,0,0
+Loyce Greatsword,Greatsword,230,0,0,0,0,5,100,0,0,0,0
+Charred Loyce Greatsword,Greatsword,180,0,90,0,0,35,40,0,35,0,0
+Greatsword of the Forlorn,Greatsword,220,0,0,0,80,45,20,0,0,0,45
+Zweihander,Ultra Greatsword,360,0,0,0,0,55,25,0,0,0,0
+Greatsword,Ultra Greatsword,400,0,0,0,0,110,15,0,0,0,0
+Old Knight Ultra Greatsword,Ultra Greatsword,350,0,0,0,0,75,10,0,0,0,0
+Drakekeeper's Ultra Greatsword,Ultra Greatsword,330,0,0,0,0,110,15,0,0,0,0
+Black Knight Ultra Greatsword,Ultra Greatsword,280,0,138,0,0,75,25,0,40,0,0
+Smelter Sword,Ultra Greatsword,350,0,170,0,0,35,20,0,40,0,0
+Lost Sinner's Sword,Ultra Greatsword,460,0,0,0,0,55,20,0,0,0,0
+Pursuer's Ultra Greatsword,Ultra Greatsword,390,0,0,0,0,86,25,0,0,0,0
+Drakewing Ultra Greatsword,Ultra Greatsword,355,0,0,0,0,32.8,42.8,0,0,0,0
+King's Ultra Greatsword,Ultra Greatsword,450,0,0,0,0,120,10,0,0,0,0
+Crypt Blacksword,Ultra Greatsword,370,0,0,0,130,35,20,0,0,0,85
+Fume Ultra Greatsword,Ultra Greatsword,430,0,0,0,0,105,15,0,0,0,0
+Aged Smelter Sword,Ultra Greatsword,350,170,0,0,0,35,20,40,0,0,0
+Ivory King Ultra Greatsword,Ultra Greatsword,300,80,0,0,0,55,40,15,0,0,0
+Falchion,Curved Sword,240,0,0,0,0,15,45,0,0,0,0
+Shotel,Curved Sword,200,0,0,0,0,20,55,0,0,0,0
+Scimitar,Curved Sword,220,0,0,0,0,15,45,0,0,0,0
+Manikin Sabre,Curved Sword,245,0,0,0,0,20,40,0,0,0,0
+Monastery Scimitar,Curved Sword,190,0,0,0,0,15,70,0,0,0,0
+Melu Scimitar,Curved Sword,250,0,0,0,0,20,25,0,0,0,0
+Red Rust Scimitar,Curved Sword,270,0,0,0,0,52.8,10,0,0,0,0
+Warped Sword,Curved Sword,250,0,0,0,0,10,47.8,0,0,0,0
+Spider Fang,Curved Sword,210,0,0,0,0,10,47.8,0,0,0,0
+Eleum Loyce,Curved Sword,165,0,0,0,0,5,92.5,0,0,0,0
+Murakumo,Curved Greatsword,380,0,0,0,0,15,59,0,0,0,0
+Arced Sword,Curved Greatsword,360,0,0,0,0,40,59,0,0,0,0
+Curved Dragon Greatsword,Curved Greatsword,400,0,0,0,0,60,65,0,0,0,0
+Curved Nil Greatsword (NG),Curved Greatsword,290,0,0,0,0,100,35,0,0,0,0
+Uchigatana,Katana,230,0,0,0,0,15,59,0,0,0,0
+Washing Pole,Katana,240,0,0,0,0,15,59,0,0,0,0
+Blacksteel Katana,Katana,190,0,0,0,0,0,100,0,0,0,0
+Chaos Blade,Katana,250,0,0,0,0,0,80,0,0,0,0
+Manslayer,Katana,230,0,0,0,0,15,59,0,0,0,0
+Berserker Blade,Katana,240,0,0,0,0,32.8,42.8,0,0,0,0
+Darkdrift,Katana,260,0,0,0,0,0,50,0,0,0,0
+Bewitched Alonne Sword,Katana,180,0,0,0,0,0,95,0,0,0,0
+Estoc,Thrusting Sword,210,0,0,0,0,55,15,0,0,0,0
+Rapier,Thrusting Sword,230,0,0,0,0,20,40,0,0,0,0
+Mail Breaker,Thrusting Sword,150,0,0,0,0,40,25,0,0,0,0
+Ricard's Rapier,Thrusting Sword,160,0,0,0,0,0,100,0,0,0,0
+Chaos Rapier,Thrusting Sword,110,0,110,0,0,0,45,0,70,0,0
+Espada Ropera,Thrusting Sword,235,0,0,0,0,10,50,0,0,0,0
+Black Scorpion Stinger,Thrusting Sword,300,0,0,0,0,0,0,0,0,0,0
+Spider's Silk,Thrusting Sword,195,0,0,0,0,0,62.8,0,0,0,0
+Ice Rapier,Thrusting Sword,220,0,0,0,0,20,40,0,0,0,0
+Hand Axe,Axe,270,0,0,0,0,55,0,0,0,0,0
+Battle Axe,Axe,280,0,0,0,0,55,15,0,0,0,0
+Butcher's Knife,Axe,280,0,0,0,0,97.8,0,0,0,0,0
+Infantry Axe,Axe,200,0,0,0,0,55,15,0,0,0,0
+Bandit Axe,Axe,310,0,0,0,0,55,0,0,0,0,0
+Gyrm Axe,Axe,380,0,0,0,0,95,10,0,0,0,0
+Dragonslayer's Crescent Axe,Axe,200,0,0,60,0,52.8,10,0,0,37.8,0
+Bound Hand Axe,Axe,180,0,0,0,0,90,0,0,0,0,0
+Crescent Axe,Great Axe,210,80,0,0,0,55,25,15,0,0,0
+Greataxe,Great Axe,390,0,0,0,0,75,10,0,0,0,0
+Bandit Greataxe,Great Axe,370,0,0,0,0,35,10,0,0,0,0
+Lion Greataxe,Great Axe,310,0,0,0,0,75,25,0,0,0,0
+Gyrm Greataxe,Great Axe,410,0,0,0,0,95,10,0,0,0,0
+Drakekeeper's Greataxe,Great Axe,380,0,0,0,0,95,10,0,0,0,0
+Black Knight Greataxe,Great Axe,340,0,120,0,0,95,15,0,40,0,0
+Giant Stone Axe,Great Axe,414,0,0,0,0,90,0,0,0,0,0
+Black Dragon Greataxe,Great Axe,410,0,0,0,0,0,0,0,0,0,0
+Club,Hammer,210,0,0,0,0,100,0,0,0,0,0
+Mace,Hammer,240,0,0,0,0,80,10,0,0,0,0
+Morning Star,Hammer,220,0,0,0,0,90,0,0,0,0,0
+Reinforced Club,Hammer,280,0,0,0,0,80,0,0,0,0,0
+Craftsman's Hammer,Hammer,250,0,0,0,0,77.8,0,0,0,0,0
+Aldia Hammer,Hammer,240,0,0,0,0,50,25,0,0,0,0
+Handmaid's Ladle,Hammer,40,0,0,0,0,0,0,0,0,0,0
+Blacksmith's Hammer,Hammer,290,0,0,0,0,55,0,0,0,0,0
+Mace of the Insolent,Hammer,100,0,0,90,160,25,25,0,0,10,20
+Barbed Club,Hammer,270,0,0,0,0,47.8,25,0,0,0,0
+Black Dragon Warpick,Hammer,330,0,0,0,0,0,0,0,0,0,0
+Homunculus Mace,Hammer,290,0,0,0,0,55,10,0,0,0,0
+Large Club,Great Hammer,360,0,0,0,0,120,0,0,0,0,0
+Great Club,Great Hammer,420,0,0,0,0,95,0,0,0,0,0
+Pickaxe,Great Hammer,300,0,0,0,0,95,0,0,0,0,0
+Old Knight Hammer,Great Hammer,500,0,0,0,0,0,0,0,0,0,0
+Archdrake Mace,Great Hammer,250,0,0,0,0,80,15,0,0,0,0
+Giant Warrior Club,Great Hammer,520,0,0,0,0,95,0,0,0,0,0
+Malformed Skull,Great Hammer,520,0,0,0,0,0,0,0,0,0,0
+Gyrm Great Hammer,Great Hammer,450,0,0,0,0,95,0,0,0,0,0
+Drakekeeper's Great Hammer,Great Hammer,450,0,0,0,0,95,0,0,0,0,0
+Drakekeeper's Warpick,Great Hammer,420,0,0,0,0,95,0,0,0,0,0
+Demon's Great Hammer,Great Hammer,450,0,0,0,0,95,0,0,0,0,0
+Dragon Tooth,Great Hammer,470,0,0,0,0,80,0,0,0,0,0
+Malformed Shell,Great Hammer,430,0,0,0,0,80,0,0,0,0,0
+Sacred Chime Hammer,Great Hammer,380,0,0,0,150,75,0,0,0,0,55
+Iron King Hammer,Great Hammer,280,0,180,0,0,95,20,0,50,0,0
+Sanctum Mace,Great Hammer,400,0,0,0,0,95,0,0,0,0,0
+Smelter Hammer,Great Hammer,500,0,0,0,0,95,0,0,0,0,0
+Spear,Spear,210,0,0,0,0,35,45,0,0,0,0
+Winged Spear,Spear,240,0,0,0,0,15,59,0,0,0,0
+Pike,Spear,190,0,0,0,0,50,45,0,0,0,0
+Partizan,Spear,230,0,0,0,0,10,65,0,0,0,0
+Stone Soldier Spear,Spear,190,0,0,0,0,45,55,0,0,0,0
+Silverblack Spear,Spear,150,0,0,0,110,40,25,0,0,0,40
+Heide Spear,Spear,210,0,0,100,0,20,25,0,0,40,0
+Pate's Spear,Spear,270,0,0,0,0,15,42.8,0,0,0,0
+Channeler's Trident,Spear,240,0,0,0,0,15,45,0,0,0,0
+Spitfire Spear,Spear,160,0,120,0,0,15,10,0,37.8,0,0
+Dragonslayer Spear,Spear,180,0,0,105,0,15,59,0,0,40,0
+Gargoyle Bident,Spear,260,0,0,0,0,97.8,0,0,0,0,0
+Yorgh's Spear,Spear,300,0,0,0,0,55,40,0,0,0,0
+Pilgrim's Spontoon,Spear,0,180,0,0,180,0,0,40,0,0,40
+Lucerne,Halberd,325,0,0,0,0,75,10,0,0,0,0
+Scythe,Halberd,330,0,0,0,0,55,20,0,0,0,0
+Halberd,Halberd,350,0,0,0,0,55,25,0,0,0,0
+Mastodon Halberd,Halberd,410,0,0,0,0,95,0,0,0,0,0
+Santier's Spear,Halberd,350,0,0,0,0,0,0,0,0,0,0
+Dragonrider's Halberd,Halberd,250,120,0,0,0,75,25,40,0,0,0
+Blue Knight's Halberd,Halberd,350,0,0,0,0,47.8,42.8,0,0,0,0
+Old Knight Halberd,Halberd,360,0,0,0,0,45,55,0,0,0,0
+Old Knight Pike,Halberd,380,0,0,0,0,95,10,0,0,0,0
+Syan's Halberd,Halberd,330,0,0,0,0,20,55,0,0,0,0
+Black Knight Halberd,Halberd,320,0,145,0,0,25,42.8,0,37.8,0,0
+Roaring Halberd,Halberd,310,0,0,0,210,0,45,0,0,0,40
+Helix Halberd,Halberd,280,0,0,0,0,0,55,0,0,0,0
+Wrathful Axe,Halberd,330,0,0,0,0,80,25,0,0,0,0
+Great Scythe,Reaper,280,0,0,0,0,15,45,0,0,0,0
+Silverblack Sickle,Reaper,160,0,0,0,105,50,25,0,0,0,40
+Great Machete,Reaper,270,0,0,0,0,55,15,0,0,0,0
+Full Moon Sickle,Reaper,280,0,0,0,0,20,40,0,0,0,0
+Crescent Sickle,Reaper,200,150,0,0,0,15,25,40,0,0,0
+Scythe of Nahr Alma,Reaper,173,0,0,0,100,20,37.8,0,0,0,37.8
+Bone Scythe,Reaper,325,0,0,0,0,97.8,0,0,0,0,0
+Scythe of Want,Reaper,260,0,0,0,200,25,42.8,0,0,0,37.8
+Scythe of the Forlorn,Reaper,210,0,0,0,70,20,47.8,0,0,0,45
+Heide Lance,Lance,230,0,0,100,0,52.8,10,0,0,37.8,0
+Heide Greatlance,Lance,270,0,0,80,0,55,10,0,0,40,0
+Grand Lance,Lance,340,0,0,0,0,50,25,0,0,0,0
+Chariot Lance,Lance,310,0,0,0,0,80,10,0,0,0,0
+Rampart Golem Lance,Lance,200,100,0,0,0,95,0,35,0,0,0
+Twinblade,Twinblade,150,0,0,0,0,50,25,0,0,0,0
+Curved Twinblade,Twinblade,170,0,0,0,0,15,42.8,0,0,0,0
+Stone Twinblade,Twinblade,180,0,0,0,0,80,15,0,0,0,0
+Red Iron Twinblade,Twinblade,340,0,0,0,0,80,0,0,0,0,0
+Dragonrider Twinblade,Twinblade,185,110,0,0,0,20,25,40,0,0,0
+Sorcerer's Twinblade,Twinblade,0,100,0,0,100,2.1,1.4,35,0,0,0
+Whip,Whip,210,0,0,0,0,0,55,0,0,0,0
+Notched Whip,Whip,205,0,0,0,0,0,55,0,0,0,0
+Bloodied Whip,Whip,260,0,0,0,0,20,25,0,0,0,0
+Spotted Whip,Whip,195,0,0,0,0,0,42.8,0,0,0,0
+Old Whip,Whip,350,0,0,0,0,15,42.8,0,0,0,0
+Claws,Claw,155,0,0,0,0,15,45,0,0,0,0
+Malformed Claws,Claw,130,0,0,0,0,55,15,0,0,0,0
+Manikin Claws,Claw,150,0,0,0,0,50,25,0,0,0,0
+Work Hook,Claw,40,0,0,0,0,35,0,0,0,0,0
+Caestus,Fists,90,0,0,0,0,85,45,0,0,0,0
+Bone Fist,Fists,20,0,0,0,0,100,45,0,0,0,0
+Bare Fists,Fists,10,0,0,0,0,50,15,0,0,0,0
+Vanquisher's Seal,Fists,200,0,0,0,0,75,25,0,0,0,0
+Short Bow,Bow,130,0,0,0,0,20,55,0,0,0,0
+Long Bow,Bow,150,0,0,0,0,20,55,0,0,0,0
+Composite Bow,Bow,165,0,0,0,0,50,25,0,0,0,0
+Sea Bow,Bow,145,0,0,0,0,50,25,0,0,0,0
+Bell Keeper Bow,Bow,110,0,0,0,0,20,40,0,0,0,0
+Hunter's Blackbow,Bow,155,0,0,0,0,10,65,0,0,0,0
+Dragonrider Bow,Bow,180,100,0,0,0,77.8,15,37.8,0,0,0
+Bow of Want,Bow,100,0,0,130,0,45,55,0,0,40,0
+Alonne Greatbow,Greatbow,260,0,0,0,0,50,25,0,0,0,0
+Dragonslayer Greatbow,Greatbow,290,0,0,0,0,77.8,25,0,0,0,0
+Possessed Armor Greatbow,Greatbow,200,0,0,0,60,25,55,0,0,0,40
+Twin-headed Greatbow,Greatbow,260,0,0,0,0,135,0,0,0,0,0
+Light Crossbow,Crossbow,250,0,0,0,0,0,0,0,0,0,0
+Heavy Crossbow,Crossbow,290,0,0,0,0,0,0,0,0,0,0
+Avelyn,Crossbow,170,0,0,0,0,0,0,0,0,0,0
+Shield Crossbow,Crossbow,280,0,0,0,0,0,0,0,0,0,0
+Sanctum Crossbow,Crossbow,220,0,0,0,0,0,0,0,0,0,40
+Sanctum Repeating Crossbow,Crossbow,100,0,0,0,0,0,0,0,0,0,40

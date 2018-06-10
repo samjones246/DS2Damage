@@ -1,4 +1,6 @@
-public class Weapon {
+import java.io.Serializable;
+
+public class Weapon implements Serializable{
     private String name;
     private int[] stats; // {Physical, Magic, Fire, Lightning, Dark}
     private double[] scalings; // {Strength, Dex, Magic, Fire, Lightning, Dark}
