@@ -32,12 +32,12 @@ public class DataLoader {
                 categories.add(weaponCategory);
             }
             int[] weaponStats = new int[5];
-            double[] weaponScalings = new double[6];
+            float[] weaponScalings = new float[6];
             for(int i = 0;i<5;i++){
                 weaponStats[i]=Integer.parseInt(data[i+2]);
             }
             for(int i=0;i<6;i++){
-                weaponScalings[i]=Double.parseDouble(data[i+7]);
+                weaponScalings[i]=Float.parseFloat(data[i+7])/100;
             }
             Weapon weapon = new Weapon(name, weaponStats, weaponScalings);
             weaponCategory.addMember(weapon);

@@ -24,4 +24,9 @@ public class WeaponCategory implements Serializable{
     public boolean equals(Object object){
         return object instanceof WeaponCategory && ((WeaponCategory) object).name.equals(name);
     }
+
+    @Override
+    public String toString() {
+        return name;
+    }
 }

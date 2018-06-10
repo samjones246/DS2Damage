@@ -3,16 +3,25 @@ import java.io.Serializable;
 public class Weapon implements Serializable{
     private String name;
     private int[] stats; // {Physical, Magic, Fire, Lightning, Dark}
-    private double[] scalings; // {Strength, Dex, Magic, Fire, Lightning, Dark}
+    private float[] scalings; // {Strength, Dex, Magic, Fire, Lightning, Dark}
 
-    public Weapon(String name, int[] stats, double[] scalings) {
+    public Weapon(String name, int[] stats, float[] scalings) {
         this.name = name;
         this.stats = stats;
         this.scalings = scalings;
     }
 
-    public int getTotalRating(int strength, int dex, int intelligence, int faith){
+    public int getTotalRating(int strengthBonus, int dexBonus, int magicBonus, int fireBonus, int lightningBonus, int darkBonus){
         int total = 0;
+        for(int i=0;i<stats.length;i++){
+            total+=stats[i];
+        }
+        total+=Math.round(strengthBonus*scalings[0]);
+        total+=Math.round(dexBonus*scalings[1]);
+        total+=Math.round(magicBonus*scalings[2]);
+        total+=Math.round(fireBonus*scalings[3]);
+        total+=Math.round(lightningBonus*scalings[4]);
+        total+=Math.round(darkBonus*scalings[5]);
         return total;
     }
 
@@ -60,5 +69,10 @@ public class Weapon implements Serializable{
 
     public double getDarkScale() {
         return scalings[5];
+    }
+
+    @Override
+    public String toString() {
+        return name;
     }
 }
