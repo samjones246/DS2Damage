@@ -20,7 +20,6 @@ public class MainWindow {
     private JButton calcButton;
     private JComboBox category;
     private JComboBox weapon;
-    private JButton resetButton;
     private JLabel physBase;
     private JLabel fireBase;
     private JLabel lgnBase;
