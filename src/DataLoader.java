@@ -32,6 +32,7 @@ public class DataLoader {
                 categories.add(weaponCategory);
             }
             int[] weaponStats = new int[5];
+            int[] rings = new int[6];
             float[] weaponScalings = new float[6];
             for(int i = 0;i<5;i++){
                 weaponStats[i]=Integer.parseInt(data[i+2]);
@@ -39,7 +40,10 @@ public class DataLoader {
             for(int i=0;i<6;i++){
                 weaponScalings[i]=Float.parseFloat(data[i+7])/100;
             }
-            Weapon weapon = new Weapon(name, weaponStats, weaponScalings);
+            for(int i=0;i<6;i++){
+                rings[i] = Integer.parseInt(data[i+13]);
+            }
+            Weapon weapon = new Weapon(name, weaponStats, weaponScalings, rings, data[19]);
             weaponCategory.addMember(weapon);
         }
         reader.close();
