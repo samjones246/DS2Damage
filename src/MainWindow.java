@@ -59,7 +59,8 @@ public class MainWindow {
         try {
             dataLoader.load();
         } catch (IOException e) {
-            JOptionPane.showMessageDialog(null, "Could not load data files. Program will now exit.");
+            System.out.println(e.getMessage());
+            JOptionPane.showMessageDialog(null, "Could not load data files. Program will now exit.\n"+e.getMessage());
             System.exit(0);
         }
         statConverter = dataLoader.getStatConverter();

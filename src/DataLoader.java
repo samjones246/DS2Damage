@@ -14,9 +14,9 @@ public class DataLoader {
     }
 
     public void load() throws IOException{
-        File weaponData = new File("data/weapons.csv");
-        File statData = new File("data/stats.csv");
-        BufferedReader reader = new BufferedReader(new FileReader(weaponData));
+        InputStream weaponData = getClass().getResourceAsStream("data/weapons.csv");
+        InputStream statData = getClass().getResourceAsStream("data/stats.csv");
+        BufferedReader reader = new BufferedReader(new InputStreamReader(weaponData));
         String line = null;
         while((line=reader.readLine())!=null){
             String[] data = line.split(",");
@@ -48,7 +48,7 @@ public class DataLoader {
         }
         reader.close();
 
-        reader = new BufferedReader(new FileReader(statData));
+        reader = new BufferedReader(new InputStreamReader(statData));
         line = null;
         Map<Integer, Integer> strength, dex, fire, lightning, magic, dark;
         strength = new HashMap<>();
