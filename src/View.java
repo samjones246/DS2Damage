@@ -19,14 +19,14 @@ public class View {
     private JComboBox comboBox12;
     private JComboBox comboBox13;
     private JComboBox comboBox14;
-    private AttributeSelector attributeSelector1;
-    private AttributeSelector attributeSelector2;
-    private AttributeSelector attributeSelector3;
-    private AttributeSelector attributeSelector4;
-    private AttributeSelector attributeSelector5;
-    private AttributeSelector attributeSelector6;
-    private AttributeSelector attributeSelector7;
-    private AttributeSelector attributeSelector8;
-    private AttributeSelector attributeSelector9;
-    private AttributeSelector attributeSelector10;
+    private AttributePanel attributeSelector1;
+    private JPanel mainPanel;
+
+    public static void main(String[] args) {
+        JFrame frame = new JFrame("View");
+        frame.setContentPane(new View().mainPanel);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.pack();
+        frame.setVisible(true);
+    }
 }
