@@ -21,7 +21,7 @@ public class WeaponCategory implements Serializable{
                 }
             }
         }
-        int index = MainWindow.infusions.get(weapon.getInfusion());
+        int index = View.infusions.get(weapon.getInfusion());
         if(addTo==null){
             addTo=new Weapon[7];
             members.add(addTo);
